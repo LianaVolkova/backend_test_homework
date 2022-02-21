@@ -1,0 +1,5 @@
+python -m venv venv   #запуск
+
+source venv/Scripts/activate    #активация
+
+pip install pytest
